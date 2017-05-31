@@ -25,18 +25,6 @@ export class PostCampaignReportComponent {
 		'earlier',
 		'later',
 		'before that',
-		new Summary(
-			100,
-			90,
-			80,
-			0.1933,
-			0.0354,
-			0.0240,
-			0.1240,
-			0.0004,
-			0.0405,
-			0.0062
-		),
 		new Campaign(
 			'PCR Test',
 			'BG',
