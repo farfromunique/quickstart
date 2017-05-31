@@ -1,0 +1,53 @@
+
+.top-bar {
+    background-color: rgb(11,94,215);
+ 	font-family: Arial, Helvetica, sans-serif;
+	color: rgb(220,230,240);
+	font-weight: normal;
+}
+
+.top-bar .logo {
+	height: 225px;
+	background-image: url('/img/Shield_White_Minimized.png');
+	background-position: center;
+	background-size: cover;
+}
+
+.top-bar h1 {
+	color: white;
+	font-weight: bold;
+	font-size: 32px;
+	margin-top: 40px;
+	margin-bottom: 0;
+}
+
+.top-bar h2 {
+	font-size: 28px;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+.top-bar h3 {
+	font-style: italic;
+	font-size: 24px;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+.row.seperator {
+	padding: 0;
+	padding-top: 6px;
+	padding-left: 10px;
+	color: rgb(11,94,215);
+	background-color: rgb(225, 239, 255);
+	margin-top: 10px;
+	margin-bottom: 10px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 16px;
+	height: 14;
+}
+
+.modal-dialog {
+	width: 60% !important;
+}
